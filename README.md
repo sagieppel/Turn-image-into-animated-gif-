@@ -2,4 +2,4 @@
 Turn image to animated gif using 3 animation modes: "explode"  "melt" "diffuse"
 
 ![](/explode.gif) 
-![](/melt.gif)
+![](/Melt.gif)
