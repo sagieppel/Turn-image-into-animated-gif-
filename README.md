@@ -7,4 +7,4 @@ Turn image to animated gif using 3 animation modes: "explode"  "melt" "diffuse"
 ![](/InverseMelt.gif)
 
 # How to use
-See Input Parameters (line 6) of the script
+See Input Parameters (line 6) of the CreateAnimatedGif.py script
