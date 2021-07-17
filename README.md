@@ -5,6 +5,9 @@ Turn image to animated gif using 3 animation modes: "explode"  "melt" "diffuse"
 ![](/Melt.gif)
 ![](/ExplodePladrum.gif)
 ![](/diffuse.gif)
+![](/Explode.gif)
+![](/InversMelt.gif)
+
 
 
 # How to use
